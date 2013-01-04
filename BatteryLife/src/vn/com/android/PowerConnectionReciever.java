@@ -8,6 +8,8 @@ import android.widget.Toast;
 
 public class PowerConnectionReciever extends BroadcastReceiver {
 
+	
+	int a = 10;
 	@Override
 	public void onReceive(Context context, Intent intent) {
 		// TODO Auto-generated method stub
