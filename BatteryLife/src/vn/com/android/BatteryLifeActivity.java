@@ -11,4 +11,7 @@ public class BatteryLifeActivity extends Activity {
         setContentView(R.layout.main);
     }
     //new comment
+    public void xxx() {
+    	
+    }
 }
