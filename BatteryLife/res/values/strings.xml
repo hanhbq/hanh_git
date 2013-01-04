@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, BatteryLifeActivity!</string>
+    <string name="app_name">BatteryLife</string>
+    <string name="summaryUsername"></string>
+    <string name="titleUsername"></string>
+
+</resources>
