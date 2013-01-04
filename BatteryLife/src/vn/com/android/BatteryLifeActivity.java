@@ -11,6 +11,5 @@ public class BatteryLifeActivity extends Activity {
         setContentView(R.layout.main);
     }
     
-    int a = 10;
     
 }
